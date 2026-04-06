@@ -1,0 +1,9 @@
+[submodule "codes"]
+	path = codes
+	url = https://github.com/draemonash2/codes.git
+[submodule "other"]
+	path = other
+	url = https://github.com/draemonash2/other.git
+[submodule "github_io"]
+	path = github_io
+	url = https://github.com/draemonash2/draemonash2.github.io.git
